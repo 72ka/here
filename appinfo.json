@@ -1,0 +1,11 @@
+{
+	"id": "cz.72ka.heremaps",
+	"version": "0.0.1",
+	"vendor": "72ka",
+	"type": "web",
+	"main": "index.html",
+	"title": "HERE",
+	"icon": "icon.png",
+	"splashicon": "icon-256x256.png",
+	"uiRevision": "2"
+}
