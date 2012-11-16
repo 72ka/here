@@ -12,6 +12,8 @@ We will see how Nokia improves it...
 Known issues:
 =============
 
+Location doesn´t work
+
 Works only on webOS 2.x
 
 webOS 1.x - web app won´t load at all
