@@ -12,7 +12,7 @@ We will see how Nokia improves it...
 Known issues:
 =============
 
-Location doesn´t work
+You have to turn ON GPS before the application start, otherwise the location fix doesn´t work
 
 Works only on webOS 2.x
 
